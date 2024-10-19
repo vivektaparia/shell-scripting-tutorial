@@ -1,27 +1,3 @@
-
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/shell-scripting-tutorial?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/shell-scripting-tutorial?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/shell-scripting-tutorial?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/shell-scripting-zero-to-hero.svg?cache=remove)
-
-
-
-[![telegram (1)](https://github.com/hegdepavankumar/shell-scripting-tutorial/assets/85627085/ab437638-444e-4887-bab1-7ed21413fa68)](https://t.me/resourcehub1)
-
-<br>
-
-# SUPPORT ME -- 🚩💲🙏
-
-### 🚀 Love my Shell Scripting Tutorial repo? It's your go-to resource for mastering shell scripting for network/security engineer roles and automating daily tasks. I've invested valuable time to create a comprehensive guide. If you find it helpful, consider showing your support with a coffee ☕️ or your best wishes. Your appreciation keeps this resource thriving!
-
-<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
----
-
-# Free and Paid Learning Resources: [Claim now](https://buymeacoffee.com/hegdepavankumar/extras)
-
-<br>
-
 # Shell Scripting: A Complete Guide
 
 Welcome to the "Shell Scripting Zero to Hero" repository, your comprehensive guide to mastering Bash shell scripting for real-world corporate scenarios. Whether you're a beginner looking to automate tedious tasks or an experienced Network/Software Engineer aiming to enhance your scripting skills, this tutorial takes you from the basics to hero-level scripting.
@@ -63,7 +39,7 @@ Absolutely, here are 5 key points for your Bash scripting tutorial:
    - Illustrate the value of scripting in a corporate environment, where time-saving automation can lead to increased productivity and smoother network operations.
 
 Ready to become a scripting hero? Clone the repository, follow the tutorials, and start scripting your way to success!
-## Connect with me : [Join Telegram](https://t.me/resourcehub1)
+
 
 
 <br>
@@ -161,15 +137,6 @@ Ready to become a scripting hero? Clone the repository, follow the tutorials, an
    
 <br>
 
-## Creator [🔝](Images-for-GNS3-and-EVE-NG)
 
-(https://github.com/hegdepavankumar). Created by:-
-
-| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
-
-<br>
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
- <!-- Support Me --> 
-If you like what I do, maybe consider buying me a coffee 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> 
+Thanks to 
+(https://github.com/hegdepavankumar).
